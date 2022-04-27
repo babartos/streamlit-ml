@@ -5,5 +5,4 @@ matplotlib
 sklearn
 pydeck
 requests
-urllib
 
