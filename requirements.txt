@@ -1,1 +1,10 @@
 streamlit
+pandas
+numpy
+sqlite3
+matplotlib 
+sklearn
+pydeck
+requests
+urllib.parse
+
